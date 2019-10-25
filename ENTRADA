@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR blueviolet]|||[/COLOR][COLOR darkviolet]||| SEJAM BEM VINDOS </name>
+<name>||| SEJAM BEM VINDOS </name>
 <thumbnail>https://ia601503.us.archive.org/30/items/fanart_20191025_2205/Icones%20Projeto.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601503.us.archive.org/30/items/fanart_20191025_2205/fanart.jpg</fanart>
 <info>
 
 
-[COLOR blueviolet]- TECHNO MENDES - [COLOR blueviolet]|</info>
+- TECHNO MENDES - </info>
 </channel>
 </channels>
 
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blueviolet] VEM OFERECER </name>
+<name> VEM OFERECER </name>
 <thumbnail>https://ia601503.us.archive.org/30/items/fanart_20191025_2205/Entrar.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/3/items/fanart_20191025_2056/fanart.jpg</fanart>
@@ -24,3 +24,5 @@
 - ENTRETERIMENTO PARA VC E PARA TODA A FAMÍLIA</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
